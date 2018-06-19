@@ -1,0 +1,3 @@
+```js
+<CustomInput placeholder="woot"/>
+```
